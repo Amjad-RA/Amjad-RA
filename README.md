@@ -4,5 +4,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Amjad-RA&theme=graywhite&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjad-RA&layout=compact&langs_count=8&card_width=320&theme=graywhite&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjad-RA&layout=compact&langs_count=8&card_width=320&theme=graywhite" />
 </a>
